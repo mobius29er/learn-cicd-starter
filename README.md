@@ -1,3 +1,4 @@
+# Add Code Coverage Badge to the top of the README
 ![code coverage badge](https://github.com/mobius29er/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
