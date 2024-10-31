@@ -7,7 +7,7 @@ import (
 
 func TestGetAPIKey(t *testing.T) {
     header := http.Header{} // Adjust this based on the context
-    header.Add("Authorization", "Bearer some-token") // Example addition
+    header.Add("Authorization", "ApiKey expected-key") // Example addition
 
     expectedKey := "expected-key"
     
