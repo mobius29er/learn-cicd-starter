@@ -23,7 +23,7 @@ jobs:
 
 
   security:
-    name: Linting
+    name: Security
     runs-on: ubuntu-latest
     
     steps:
